@@ -1,0 +1,12 @@
+.header{
+    width: 100%;
+    background-color: orange;
+    height: 55px;
+    position: fixed;
+}
+
+.header img{
+    height: 40px;
+    width: 40px;
+    filter: brightness(0) saturate(100%) invert(41%) sepia(100%) saturate(567%) hue-rotate(6deg) brightness(86%) contrast(102%);
+}

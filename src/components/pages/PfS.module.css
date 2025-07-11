@@ -1,0 +1,15 @@
+.profile_picture_user{
+    width: 350px;
+    height: 350px;
+}
+
+.obertka{
+    display: flex;
+    width: 100%;
+    background-color: blue;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.user_name{
+    font-size: 20px;
+}
